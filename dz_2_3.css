@@ -1,0 +1,18 @@
+.one{
+    background: red;
+    width:50px;
+    height: 40px;
+    margin-bottom: 20px;
+}
+.two{
+    background: orange;
+    width: 100px;
+    height: 40px;
+    margin-bottom: 20px;
+}
+.three{
+    background: blue;
+    width:140px;
+    height: 40px;
+    margin-bottom: 60px;
+}
